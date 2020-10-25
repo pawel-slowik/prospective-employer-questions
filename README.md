@@ -64,7 +64,7 @@
   programowaniem (np. spotkania)?
 
 - Kto, mówiąc potocznie, "pilnuje serwerów", tzn. dba o bezawaryjne działanie
-  aplikacji w środowisku produkcyjnyn? Wyznaczone osoby typu DevOps / sysadmin,
+  aplikacji w środowisku produkcyjnym? Wyznaczone osoby typu DevOps / sysadmin,
   zewnętrzne firmy czy może programiści we własnym zakresie?
 
 
