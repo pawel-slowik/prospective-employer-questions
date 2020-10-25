@@ -125,4 +125,5 @@
   > handlowcami / Account Managerami / pracownikami obsługi klienta powodują
   > utrudnienia w koncentracji.
 
-- Czy stanowisko pracy będzie wyposażone w co najmniej jeden monitor 22 cali?
+- Jak wygląda stanowisko pracy? (ergonomia, wielkość biurka, ilość monitorów
+  itp.)
