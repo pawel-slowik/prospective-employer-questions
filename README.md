@@ -83,7 +83,8 @@
 
 - Czy jest code review?
 
-- Czy są testy jednostkowe? Integracyjne? Przeglądarkowe?
+- Czy są testy jednostkowe? Integracyjne? Przeglądarkowe? Czy są dedykowani
+  testerzy?
 
 - Czy testy są wpięte w system CI?
 
