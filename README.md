@@ -97,6 +97,9 @@
 - Czy istnieją środowiska testing / staging, odizolowane od środowiska
   produkcyjnego?
 
+- Jak często zmiany są wdrażane w środowisku produkcyjnym / wykonywany jest
+  deploy?
+
 - Czy środowisko produkcyjne jest monitorowane?
 
 - Czy programiści mają dostęp do logów środowiska produkcyjnego?
