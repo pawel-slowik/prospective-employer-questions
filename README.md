@@ -104,6 +104,9 @@
 
 - Czy programiści mają dostęp do logów środowiska produkcyjnego?
 
+- Czy są używane narzędzia służące do podnoszenia jakości kodu np. PHPStan,
+  SonarQube?
+
 
 ## Firmowy sprzęt / oprogramowanie
 
