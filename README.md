@@ -134,3 +134,5 @@
 
 - Jak wygląda stanowisko pracy? (ergonomia, wielkość biurka, ilość monitorów
   itp.)
+
+- Jakie procedury / rozwiązania zostały wdrożone w związku z pandemią COVID-19?
