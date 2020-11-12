@@ -13,22 +13,24 @@
 ## Czas pracy
 
 - Jak w praktyce wygląda "elastyczny czas pracy"?
-  > Przykładowo, _dla pracy zdalnej_ mój preferowany rozkład dnia to: jestem
-  > dostępny od 9 do 15 oraz od 18 do 20. W pozostałych godzinach również generalnie
-  > odbieram telefon, ale proszę o kontakt wyłącznie w sprawach pilnych.
-  >
-  > _Dla pracy w biurze_: mogę zaczynać między 9 a 10. Około 13 - 14 potrzebuję
-  > 30 min. przerwy. **Po zakończeniu dnia pracy około 18 z reguły nie odbieram
-  > służbowych połączeń**.
-  >
-  > Czy ustalenia jak wyżej będą pasować do trybu pracy firmy?
+
+  Przykładowo, _dla pracy zdalnej_ mój preferowany rozkład dnia to: jestem
+  dostępny od 9 do 15 oraz od 18 do 20. W pozostałych godzinach również generalnie
+  odbieram telefon, ale proszę o kontakt wyłącznie w sprawach pilnych.
+
+  _Dla pracy w biurze_: mogę zaczynać między 9 a 10. Około 13 - 14 potrzebuję
+  30 min. przerwy. **Po zakończeniu dnia pracy około 18 z reguły nie odbieram
+  służbowych połączeń**.
+
+  Czy ustalenia jak wyżej będą pasować do trybu pracy firmy?
 
 - Czy jest potrzeba "dyżurowania" / bycia dostępnym poza standardowymi
   godzinami? Jeśli tak, to czy są jasno określone zasady rozliczania takich
   godzin?
-  > Nie musi to być formalne rozliczanie przez nadgodziny, wystarczy ustna umowa
-  > typu: z okazji Cyber Monday będę coś monitorował / będę dostępny przez
-  > cały dzień, ale za to potem w piątek zwijam się pół dnia wcześniej.
+
+  Nie musi to być formalne rozliczanie przez nadgodziny, wystarczy ustna umowa
+  typu: z okazji Cyber Monday będę coś monitorował / będę dostępny przez
+  cały dzień, ale za to potem w piątek zwijam się pół dnia wcześniej.
 
 - Czy logujemy ilość godzin na zadanie / task w JIRA lub podobnym systemie?
 
@@ -48,9 +50,10 @@
 - Czy w zespole jest podział na frontend / backend czy raczej fullstack?
 
 - Czy są stosowane metody zwinne / Agile?
-  > Nie przywiązuję większej wagi do konkretnych narzędzi / frameworków (Scrum /
-  > Kanban itd.), natomiast bardzo istotne jest dla mnie **szybkie otrzymanie
-  > informacji zwrotnej** - czy to, co wykonałem, spełnia oczekiwania klienta.
+
+  Nie przywiązuję większej wagi do konkretnych narzędzi / frameworków (Scrum /
+  Kanban itd.), natomiast bardzo istotne jest dla mnie **szybkie otrzymanie
+  informacji zwrotnej** - czy to, co wykonałem, spełnia oczekiwania klienta.
 
 - W jaki sposób ustalane są zadania? Czy jest system zgłoszeń? Jak ustalane są
   priorytety zadań?
@@ -120,17 +123,19 @@
 ## Istotne tylko w przypadku pracy w biurze
 
 - Gdzie jest zlokalizowane biuro?
-  > Np. praca może być wykonywana u klienta.
+
+  Np. praca może być wykonywana u klienta.
 
 - Ile osób pracuje razem w pomieszczeniu?
-  > Generalnie nie mam nic przeciwko pracy w większych pomieszczeniach typu open
-  > space, **o ile przeważa w nich względny spokój i cisza**. Ratowanie się
-  > słuchawkami uważam za słabe rozwiązanie.
-  >
-  > Z dotychczasowych doświadczeń: 10 programistów w jednym pomieszczeniu jest
-  > spoko. Natomiast większa ilość osób lub mieszanie programistów z
-  > handlowcami / Account Managerami / pracownikami obsługi klienta powodują
-  > utrudnienia w koncentracji.
+
+  Generalnie nie mam nic przeciwko pracy w większych pomieszczeniach typu open
+  space, **o ile przeważa w nich względny spokój i cisza**. Ratowanie się
+  słuchawkami uważam za słabe rozwiązanie.
+
+  Z dotychczasowych doświadczeń: 10 programistów w jednym pomieszczeniu jest
+  spoko. Natomiast większa ilość osób lub mieszanie programistów z
+  handlowcami / Account Managerami / pracownikami obsługi klienta powodują
+  utrudnienia w koncentracji.
 
 - Jak wygląda stanowisko pracy? (ergonomia, wielkość biurka, ilość monitorów
   itp.)
