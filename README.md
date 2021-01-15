@@ -9,6 +9,9 @@
 - Czy kwota na UoP odpowiada kwocie na B2B pomniejszonej o koszty pracodawcy czy
   też jest jeszcze bardziej "okrojona"?
 
+- Czy w przypadku B2B pracodawca zaakceptuje współpracę z podmiotem mającym
+  działalność gospodarczą zarejestrowaną poza Polską (w granicach UE)?
+
 
 ## Czas pracy
 
