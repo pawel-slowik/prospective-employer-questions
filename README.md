@@ -2,7 +2,8 @@
 
 ## Rodzaj umowy o pracę
 
-- Czy jest możliwość pracy zdalnej? Jeśli tak, to w jakiej części?
+- Czy jest możliwość pracy zdalnej? Jeśli tak, to w jakiej części? Czy po
+  opanowaniu pandemii COVID-19 nadal będzie taka możliwość?
 
 - Czy jest oferowana UoP czy tylko B2B?
 
