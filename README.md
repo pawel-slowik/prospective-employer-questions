@@ -5,12 +5,7 @@
 - Czy jest możliwość pracy zdalnej? Jeśli tak, to w jakiej części? Czy po
   opanowaniu pandemii COVID-19 nadal będzie taka możliwość?
 
-- Czy jest oferowana UoP czy tylko B2B?
-
-- Czy kwota na UoP odpowiada kwocie na B2B pomniejszonej o koszty pracodawcy czy
-  też jest jeszcze bardziej "okrojona"?
-
-- Jak szybko mogę otrzymać szablon umowy wraz z informacjami, które zapisy
+- Jak szybko mogę otrzymać szablon umowy B2B wraz z informacjami, które zapisy
   podlegają negocjacji?
 
 - Czy w przypadku B2B pracodawca zaakceptuje współpracę z podmiotem mającym
