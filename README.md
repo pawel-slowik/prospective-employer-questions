@@ -8,9 +8,6 @@
 - Jak szybko mogę otrzymać szablon umowy B2B wraz z informacjami, które zapisy
   podlegają negocjacji?
 
-- Czy w przypadku B2B pracodawca zaakceptuje współpracę z podmiotem mającym
-  działalność gospodarczą zarejestrowaną poza Polską (w granicach UE)?
-
 
 ## Czas pracy
 
