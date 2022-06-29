@@ -65,7 +65,7 @@
 - Czy kod jest umieszczony w systemie kontroli wersji, np. Git?
 
 - Jaka wersja PHP? Jeżeli nie jest to jedna z wspieranych wersji, jak wyglądają
-  plany migracji na 7.4?
+  plany migracji?
 
 - Jaki framework / jakie frameworki? W jakich wersjach? Czy jest planowana
   aktualizacja?
