@@ -2,8 +2,7 @@
 
 ## Rodzaj umowy o pracę
 
-- Czy jest możliwość pracy zdalnej? Jeśli tak, to w jakiej części? Czy po
-  opanowaniu pandemii COVID-19 nadal będzie taka możliwość?
+- Czy jest możliwość pracy w 100% zdalnej?
 
 - Jak szybko mogę otrzymać szablon umowy B2B wraz z informacjami, które zapisy
   podlegają negocjacji?
@@ -107,17 +106,3 @@
 
 - Czy otrzymam służbowy telefon - jeśli jest taka potrzeba, np. do
   bezpośredniego kontaktu z klientem?
-
-
-## Istotne tylko w przypadku pracy w biurze
-
-- Gdzie jest zlokalizowane biuro?
-
-  Np. praca może być wykonywana u klienta.
-
-- Ile osób pracuje razem w pomieszczeniu?
-
-- Jak wygląda stanowisko pracy? (ergonomia, wielkość biurka, ilość monitorów
-  itp.)
-
-- Jakie procedury / rozwiązania zostały wdrożone w związku z pandemią COVID-19?
