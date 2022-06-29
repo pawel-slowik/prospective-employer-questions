@@ -104,5 +104,8 @@
 - Czy otrzymam służbowego laptopa wraz z oprogramowaniem potrzebnym do pracy
   (np. PhpStorm)?
 
+- Czy jest określona procedura zgłaszania potrzeby zainstalowania nowego
+  oprogramowania? Jak długo trwa taka procedura?
+
 - Czy otrzymam służbowy telefon - jeśli jest taka potrzeba, np. do
   bezpośredniego kontaktu z klientem?
