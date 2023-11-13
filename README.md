@@ -7,6 +7,9 @@
 - Jak szybko mogę otrzymać szablon umowy B2B wraz z informacjami, które zapisy
   podlegają negocjacji?
 
+- Czy nawiązanie współpracy B2B będzie wymagało udostępnienia dodatkowych danych
+  osobistych, o zakresie wykraczającym poza dane firmy (np. numeru PESEL)?
+
 
 ## Czas pracy
 
